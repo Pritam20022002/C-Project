@@ -1,3 +1,1 @@
-This is a simple C project done using File handling. 
-In this project a user can create his account and can deposite or withdraw money whenever it is reqired.
-User can also check balance and can delete an account when needed.
+This is a simple C project done using File handling. In this project user have to add 10-digit mobile number and 8-Digit password in order to create an account and have to provide the same while checking balance or deleting that particular account when needed.
